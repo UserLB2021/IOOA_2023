@@ -1,0 +1,5 @@
+Haarlem 60000
+Alkmaar 45000
+Leiden 55000
+Amsterdam 900000
+Bunnink 500
