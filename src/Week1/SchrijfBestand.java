@@ -20,9 +20,3 @@ public class SchrijfBestand {
         }
     }
 }
-
-//In de method voeg je het volgende toe aan plaatsen.txt
-//o Amsterdam 900000
-//o Bunnink 500
-//- Gebruik dan weer LeesSteden om de inhoud van het tekstbestand opnieuw te tonen op
-//console

@@ -1,3 +1,5 @@
+package Week1;
+
 import java.io.*;
 
 public class LeesSteden {
@@ -11,7 +13,6 @@ public class LeesSteden {
                     regel = bufferedReader.readLine();
                 }
             }
-
         } catch (FileNotFoundException e) {
             System.out.println("bestand bestond niet");
 
