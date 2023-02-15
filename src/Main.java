@@ -1,5 +1,5 @@
-import Week1.LeesSteden;
-import Week1.SchrijfBestand;
+import OpdrachtenWeek1.LeesSteden;
+import OpdrachtenWeek1.SchrijfBestand;
 
 public class Main {
     public static void main(String[] args) {

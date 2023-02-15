@@ -1,11 +1,11 @@
-package Week1;
+package OpdrachtenWeek1;
 
 import java.util.Scanner;
 
 public class LeesBestandsNamenApp {
     public static void main(String[] args) {
 
-        LeesBestandsNamen leesBestandsNamen = new LeesBestandsNamen();
+        OpdrachtenWeek1.LeesBestandsNamen leesBestandsNamen = new OpdrachtenWeek1.LeesBestandsNamen();
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Voer een bestandsnaam in: ");

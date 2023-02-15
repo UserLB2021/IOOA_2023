@@ -1,4 +1,4 @@
-package Week1;
+package OpdrachtenWeek1;
 
 import java.io.File;
 

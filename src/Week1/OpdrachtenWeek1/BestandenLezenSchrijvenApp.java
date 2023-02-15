@@ -1,4 +1,4 @@
-package Week1;
+package OpdrachtenWeek1;
 
 public class BestandenLezenSchrijvenApp {
     public static void main(String[] args) {

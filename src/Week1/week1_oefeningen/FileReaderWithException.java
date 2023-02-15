@@ -1,4 +1,4 @@
-package Week1.week1_oefeningen;
+package OpdrachtenWeek1.week1_oefeningen;
 
 import java.io.BufferedReader;
 import java.io.File;
