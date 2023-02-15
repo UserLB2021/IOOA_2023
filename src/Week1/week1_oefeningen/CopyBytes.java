@@ -30,6 +30,7 @@ public class CopyBytes {
         }
     }
 }
+//I/O Streams: voorbeeld
 //Aandachtspunten
 //• Als je met I/O werkt, moet je gebruik maken van een Try-Catch constructie.
 //• In de finally-clausule worden de input stream en output stream gesloten.
